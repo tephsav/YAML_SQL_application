@@ -1,0 +1,13 @@
+# Task 3.c
+toys:
+- id: 1
+  note:
+  - need repair
+  - boat is broken
+- id: 7
+  note:
+  - bear feels well
+- id: 43
+  note:
+  - felt rather good though had no water to swim
+  - two tentacles are lost
